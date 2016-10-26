@@ -1,0 +1,12 @@
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\bin\Debug\JogoTexto.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.exe
+c:\users\kevin\documents\visual studio 2015\Projects\JogoTexto\JogoTexto\obj\Debug\JogoTexto.pdb
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe.config
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\obj\Debug\JogoTexto.exe
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\obj\Debug\JogoTexto.pdb
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\bin\Debug\JogoTexto.exe
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\bin\Debug\JogoTexto.pdb
+C:\Users\Destroyzer.WSL\Documents\Visual Studio 2015\Projects\Allyson\JogoTexto\JogoTexto\obj\Debug\JogoTexto.csprojResolveAssemblyReference.cache
